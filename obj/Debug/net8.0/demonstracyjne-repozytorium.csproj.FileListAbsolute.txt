@@ -1,0 +1,15 @@
+C:\Users\grs4v\Documents\Code\demonstracyjne-repozytorium\bin\Debug\net8.0\demonstracyjne-repozytorium.exe
+C:\Users\grs4v\Documents\Code\demonstracyjne-repozytorium\bin\Debug\net8.0\demonstracyjne-repozytorium.deps.json
+C:\Users\grs4v\Documents\Code\demonstracyjne-repozytorium\bin\Debug\net8.0\demonstracyjne-repozytorium.runtimeconfig.json
+C:\Users\grs4v\Documents\Code\demonstracyjne-repozytorium\bin\Debug\net8.0\demonstracyjne-repozytorium.dll
+C:\Users\grs4v\Documents\Code\demonstracyjne-repozytorium\bin\Debug\net8.0\demonstracyjne-repozytorium.pdb
+C:\Users\grs4v\Documents\Code\demonstracyjne-repozytorium\obj\Debug\net8.0\demonstracyjne-repozytorium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grs4v\Documents\Code\demonstracyjne-repozytorium\obj\Debug\net8.0\demonstracyjne-repozytorium.AssemblyInfoInputs.cache
+C:\Users\grs4v\Documents\Code\demonstracyjne-repozytorium\obj\Debug\net8.0\demonstracyjne-repozytorium.AssemblyInfo.cs
+C:\Users\grs4v\Documents\Code\demonstracyjne-repozytorium\obj\Debug\net8.0\demonstracyjne-repozytorium.csproj.CoreCompileInputs.cache
+C:\Users\grs4v\Documents\Code\demonstracyjne-repozytorium\obj\Debug\net8.0\demonstracyjne-repozytorium.sourcelink.json
+C:\Users\grs4v\Documents\Code\demonstracyjne-repozytorium\obj\Debug\net8.0\demonstracyjne-repozytorium.dll
+C:\Users\grs4v\Documents\Code\demonstracyjne-repozytorium\obj\Debug\net8.0\refint\demonstracyjne-repozytorium.dll
+C:\Users\grs4v\Documents\Code\demonstracyjne-repozytorium\obj\Debug\net8.0\demonstracyjne-repozytorium.pdb
+C:\Users\grs4v\Documents\Code\demonstracyjne-repozytorium\obj\Debug\net8.0\demonstracyjne-repozytorium.genruntimeconfig.cache
+C:\Users\grs4v\Documents\Code\demonstracyjne-repozytorium\obj\Debug\net8.0\ref\demonstracyjne-repozytorium.dll
