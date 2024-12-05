@@ -9,7 +9,7 @@ public static class ConsoleWriter
     {
         public static void Write(string text)
         {
-            Console.WriteLine(text);
+            Console.WriteLine(text +"teiiugiu");
         }
     }
 }
