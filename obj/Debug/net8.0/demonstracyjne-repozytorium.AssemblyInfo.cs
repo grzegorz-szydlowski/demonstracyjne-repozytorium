@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("demonstracyjne-repozytorium")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69bea3be23b9bf25beb218f6b4c40e69bef093b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6eb42981dbbb1ec36ce55ed0358ac2ca71273cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("demonstracyjne-repozytorium")]
 [assembly: System.Reflection.AssemblyTitleAttribute("demonstracyjne-repozytorium")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
